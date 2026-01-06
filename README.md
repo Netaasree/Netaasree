@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Bhimaraju Netaasree</h1>
-<h3 align="center">B.Tech student exploring software development Learning DSA & MERN stack through projects Still learning, always improving 🌱</h3>
+<h3 align="center">B.Tech student exploring software development — learning DSA & the MERN stack through projects. Still learning, always improving 🌱</h3>
 
-- 📫 How to reach me **bnssrs05@gmail.com**
+- 📫 How to reach me **[bnssrs05@gmail.com](mailto:bnssrs05@gmail.com)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/bhimarajunetaasree" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bhimarajunetaasree" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/netaasree" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="netaasree" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/bhimarajunetaasree" target="_blank" rel="noopener noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bhimarajunetaasree" height="30" width="40" /></a>
+<a href="https://leetcode.com/netaasree" target="_blank" rel="noopener noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="netaasree" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
